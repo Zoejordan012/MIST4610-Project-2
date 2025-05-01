@@ -47,6 +47,7 @@ Arson and Homicide were excluded through a filter in the Offense category. This 
 
 ### Question 1
 [](https://keep.google.com/u/0/media/v2/1mDHAQMwtpLD-uFWBozVlA40Wm9B-Q0yAdLW2rJeeFyeFvnsMcqGJGWZAwH7pYQ/1ALVYggNcusUvA_fDPnCU0ucp-l7rY8Ny5v76JY8rgIY22NsP3BSZJ59G0ELFZGI?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)![image](https://github.com/user-attachments/assets/6e06a24d-9371-4926-ba06-6837bff63fc8)
+
 Results
 
 Theft is the most prevalent type of crime, with motor vehicle theft and other forms of theft occurring significantly more often than crimes like burglary or assault with a deadly weapon. Interestingly, despite the common perception that being out at night is more dangerous, crime rates are actually lower during the midnight shift compared to the day and evening shifts. In fact, day and evening shifts tend to experience similar levels of crime activity, challenging assumptions about when individuals are most at risk. In addition, burglary and assault with deadly weapons occur significantly less than motor vehicle theft and other theft crimes
