@@ -57,7 +57,8 @@ Understanding time-specific crime trends can help law enforcement and city plann
 
 
 ### Question 2
-
+[
+](https://keep.google.com/u/0/media/v2/1ev9PhJ4twrKK9aRBENt1wrdj7-OW7_q-05c8P-z0kUgxvs4RqpDPIjRlNjw43uw/18xy85senaEA68zPXp6jrUXTngQ_6uaj5mRtPWdaoUjBa9nCRmjoCE8e7bnW-spg?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)![image](https://github.com/user-attachments/assets/10b58e7c-681c-431c-957d-ba432bc7b3df)
 Results
 
 The heatmap illustrates the frequency of various types of offenses across voting precincts 1 through 10 in Washington, DC, with offense types represented by rows and precincts by columns. It reveals that precincts 1, 2, 4, 5, and 6 experience significantly higher total crime rates across all categories, with theft standing out as the most commonly committed offense. This pattern highlights a clear need for targeted and enhanced efforts to address theft, especially in the precincts with the highest overall crime rates.
