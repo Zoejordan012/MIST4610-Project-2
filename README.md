@@ -69,3 +69,5 @@ Analysis: How is this useful?
 The data suggests a need for increased law enforcement presence and improved surveillance technology in precincts with higher crime rates, particularly precincts 1, 2, 4, 5, and 6. One possible strategy could involve reallocating executive forces from lower-crime precincts such as 3 and 7–10 to the areas with greater need. Additionally, addressing underlying social issues like poverty and homelessness could help reduce theft and other related crimes. Policy adjustments, including stricter penalties for theft like longer jail sentences and heavier fines, may also serve as deterrents. At the community level, educational programs can raise awareness about theft and encourage proactive measures for personal safety. Moreover, evaluating and improving infrastructure related to crime reporting—such as emergency call response times and reporting system reliability—is crucial. Finally, investing in environmental design solutions like better street and parking lot lighting can help prevent theft by increasing visibility and perceived safety.
 
 ## Tableau Packaged Workbook
+
+UTF-8MIST 4610 Group Project 2.twbx
